@@ -1020,3 +1020,15 @@ ul.social_icon li a:hover {
 .inner_page .about {
      margin: 90px 0;
 }
+
+.website_h2_header {
+     font-family: 'Roboto', sans-serif; /* Use a modern, clean font */
+     font-size: 26px; /* Make it stand out */
+     color: #2C3E50; /* Dark blue color for professionalism */
+     font-weight: bold; /* Emphasize the text */
+     text-align: center; /* Center the heading */
+     letter-spacing: 2px; /* Add some spacing between letters for style */
+     text-transform: uppercase; /* Make the text uppercase for impact */
+     margin-bottom: 2%; /* Add space below */
+     padding: 1px; /* Add padding for a cleaner look */
+}
